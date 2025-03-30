@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6dc2e4f5-599b-414a-927d-634a36121417" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/command/DismissalAlertValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/command/DismissalAlertValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/command/ElementValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/command/ElementValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/command/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/command/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/command/NotificationValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/command/NotificationValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/decorator/DashboardPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/decorator/DashboardPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/decorator/PaymentScreenPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/decorator/PaymentScreenPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/emirates/DatePicker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/emirates/DatePicker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/emirates/EmiratesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/emirates/EmiratesPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/emirates/FlightSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/emirates/FlightSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/emirates/MultiWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/emirates/MultiWay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/emirates/OneWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/emirates/OneWay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/emirates/TwoWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/emirates/TwoWay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/executearound/FrameA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/executearound/FrameA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/executearound/FrameB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/executearound/FrameB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/executearound/FrameC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/executearound/FrameC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/executearound/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/executearound/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/factory/GoogleArabic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/factory/GoogleArabic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/factory/GoogleES.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/factory/GoogleES.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/factory/GoogleEnglish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/factory/GoogleEnglish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/factory/GoogleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/factory/GoogleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/factory/GoogleFrench.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/factory/GoogleFrench.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/factory/GooglePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/factory/GooglePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/proxy/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/proxy/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/proxy/NetBanking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/proxy/NetBanking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/proxy/OrderComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/proxy/OrderComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/proxy/OrderComponentProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/proxy/OrderComponentProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/proxy/OrderComponentReal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/proxy/OrderComponentReal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/proxy/PaymentOption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/proxy/PaymentOption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/proxy/PaymentOptionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/proxy/PaymentOptionFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/proxy/PaymentScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/proxy/PaymentScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/proxy/UserInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/proxy/UserInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/srp/common/AbstractComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/srp/common/AbstractComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/srp/common/SearchSuggestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/srp/common/SearchSuggestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/srp/common/SearchWidget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/srp/common/SearchWidget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/srp/main/GoogleMainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/srp/main/GoogleMainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/srp/result/GoogleResultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/srp/result/GoogleResultPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/srp/result/NavigationBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/srp/result/NavigationBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/srp/result/ResultStat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/srp/result/ResultStat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/strategy/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/strategy/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/strategy/NetBanking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/strategy/NetBanking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/strategy/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/strategy/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/strategy/PaymentOption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/strategy/PaymentOption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/strategy/PaymentOptionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/strategy/PaymentOptionFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/strategy/PaymentScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/strategy/PaymentScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/strategy/UserInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/strategy/UserInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/template/AmazonShopping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/template/AmazonShopping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/template/EBayShopping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/template/EBayShopping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/template/ShoppingTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/template/ShoppingTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/template/pages/AmazonProductDescriptionPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/template/pages/AmazonProductDescriptionPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/template/pages/AmazonResultsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/template/pages/AmazonResultsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/template/pages/AmazonSearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnselenium/seleniumdesign/template/pages/AmazonSearchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/udemy/seleniumdesign/test/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/learnselenium/seleniumdesign/test/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/udemy/seleniumdesign/test/command/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/learnselenium/seleniumdesign/test/command/HomePageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/udemy/seleniumdesign/test/decorator/DashboardPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/learnselenium/seleniumdesign/test/decorator/DashboardPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/udemy/seleniumdesign/test/decorator/Decorators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/learnselenium/seleniumdesign/test/decorator/Decorators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/udemy/seleniumdesign/test/decorator/PaymentDecorators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/learnselenium/seleniumdesign/test/decorator/PaymentDecorators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/udemy/seleniumdesign/test/decorator/PaymentScreenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/learnselenium/seleniumdesign/test/decorator/PaymentScreenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/udemy/seleniumdesign/test/executearound/FrameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/learnselenium/seleniumdesign/test/executearound/FrameTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/udemy/seleniumdesign/test/factory/GoogleSearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/learnselenium/seleniumdesign/test/factory/GoogleSearchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/udemy/seleniumdesign/test/proxy/PaymentScreenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/learnselenium/seleniumdesign/test/proxy/PaymentScreenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/udemy/seleniumdesign/test/srp/GoogleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/learnselenium/seleniumdesign/test/srp/GoogleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/udemy/seleniumdesign/test/strategy/EmiratesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/learnselenium/seleniumdesign/test/strategy/EmiratesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/udemy/seleniumdesign/test/strategy/PaymentScreenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/learnselenium/seleniumdesign/test/strategy/PaymentScreenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/udemy/seleniumdesign/test/template/ShoppingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/learnselenium/seleniumdesign/test/template/ShoppingTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2v1zqwRE5fggvtLdAzlMrjKxTQl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "full.screen.before.presentation.mode": "false",
+    "last_opened_file_path": "/Users/vishwanathchenni/Documents/VishwanathChenni-Study/selenium-design-patterns/pom.xml",
+    "settings.editor.selected.configurable": "debugger.dataViews"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.selenium.seleniumdesign.srp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.GoogleTest.googleWorkflow (1)">
+    <configuration name="GoogleTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.senelnium.seleniumdesign.test.srp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.senelnium.seleniumdesign.test.srp" />
+      <option name="MAIN_CLASS_NAME" value="com.senelnium.seleniumdesign.test.srp.GoogleTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleTest (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.seleniumdesign.test.srp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udemy.seleniumdesign.test.srp" />
+      <option name="MAIN_CLASS_NAME" value="com.udemy.seleniumdesign.test.srp.GoogleTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.senelnium.seleniumdesign.test.srp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.senelnium.seleniumdesign.test.srp" />
+      <option name="MAIN_CLASS_NAME" value="com.senelnium.seleniumdesign.test.srp.GoogleTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleTest.googleWorkflow (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learnselenium.seleniumdesign.test.srp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.learnselenium.seleniumdesign.test.srp" />
+      <option name="MAIN_CLASS_NAME" value="com.learnselenium.seleniumdesign.test.srp.GoogleTest" />
+      <option name="METHOD_NAME" value="googleWorkflow" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleTest.googleWorkflow" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.senelnium.seleniumdesign.test.srp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.senelnium.seleniumdesign.test.srp" />
+      <option name="MAIN_CLASS_NAME" value="com.senelnium.seleniumdesign.test.srp.GoogleTest" />
+      <option name="METHOD_NAME" value="googleWorkflow" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.GoogleTest.googleWorkflow (1)" />
+        <item itemvalue="TestNG.GoogleTest (2)" />
+        <item itemvalue="TestNG.GoogleTest.googleWorkflow" />
+        <item itemvalue="TestNG.GoogleTest (1)" />
+        <item itemvalue="TestNG.GoogleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dc2e4f5-599b-414a-927d-634a36121417" name="Changes" comment="" />
+      <created>1743327564185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743327564185</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
